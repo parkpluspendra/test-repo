@@ -1,0 +1,3 @@
+[submodule "esp32-idf-sqlite3"]
+	path = esp32-idf-sqlite3
+	url = git@github.com:siara-cc/esp32-idf-sqlite3.git
