@@ -1,3 +1,6 @@
 [submodule "esp32-idf-sqlite3"]
 	path = esp32-idf-sqlite3
 	url = git@github.com:siara-cc/esp32-idf-sqlite3.git
+[submodule "example-ios-apps"]
+	path = "test-with-clone/example-ios-apps"
+	url = git@github.com:jogendra/example-ios-apps.git
